@@ -26,7 +26,8 @@ This repository contains a Java EE-based CRUD (Create, Read, Update, Delete) app
 
 - ## Screenshots
 
-### CRUD Interface
-(images/CRUD image.png)
+## CRUD Interface
+![CRUD Interface](images/CRUD_image.png)
+
 
 
