@@ -23,3 +23,10 @@ This repository contains a Java EE-based CRUD (Create, Read, Update, Delete) app
 - Java Development Kit (JDK)
 - IDE (IntelliJ IDEA)
 - Modern web browser
+
+- ## Screenshots
+
+### CRUD Interface
+(images/CRUD image.png)
+
+
